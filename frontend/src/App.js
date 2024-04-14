@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <img src={blob} className="App-blob" alt="blob"/>
-                <iframe title="YouTube Video" width="560" height="315" src="https://www.youtube.com/embed/dgraY2XdJDA"
+                <iframe title="YouTube Video" src="https://www.youtube.com/embed/dgraY2XdJDA"
                         frameBorder="0"
                         allowFullScreen></iframe>
                 <p>Kertu Kasesalu</p>
