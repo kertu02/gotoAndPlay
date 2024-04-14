@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+p {
+  font-family: "OCR A Std", OCR-A-Std, monospace;
+  font-style: normal;
+  font-weight: 400;
+  color: black;
+  margin-bottom: 1px;
+}
+.App-blob {
+  height: 100vmin;
+  margin-left: 30px;
+  margin-top: -90px;
+}
+
+iframe {
+  position: absolute;
+  border-radius: 25px;
+}
+
+.App-header {
+  background-color: #7aac72;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-right: 30px;
+}
+
